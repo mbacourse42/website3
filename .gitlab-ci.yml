@@ -1,6 +1,7 @@
 image: monachus/hugo
 
 pages:
+  stage: deploy
   script:
   - hugo
   artifacts:
