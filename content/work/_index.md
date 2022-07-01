@@ -1,0 +1,7 @@
+---
+title: 'Products'
+date: 2018-02-10T11:52:18+07:00
+heroHeading: 'Products'
+heroSubHeading: 'Our products'
+heroBackground: 'images/tests/pexels-max-vakhtbovych-7147288.jpg'
+---
