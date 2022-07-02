@@ -1,4 +1,4 @@
-baseURL = "../"
+baseURL = "https://mbacourse42.github.io/website3/"
 themesDir = "themes"
 theme = "hugo-hero-theme"
 
